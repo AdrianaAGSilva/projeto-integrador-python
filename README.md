@@ -74,8 +74,7 @@ poetry --version
 ### Clonar o projeto
 
 ```bash
-git clone https://github.com/AdrianaAGSilva/projeto_integrador.git
-cd projeto_integrador
+git clone https://github.com/AdrianaAGSilva/projeto-integrador-python.git
 ```
 
 ---
