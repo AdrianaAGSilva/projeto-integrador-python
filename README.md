@@ -2,19 +2,17 @@
 
 > Projeto Django + Django REST Framework para Governança de Portfólio de TI.
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue.svg?logo=python\&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-5.0%2B-green.svg?logo=Django)](https://www.djangoproject.com/)
-[![DRF](https://img.shields.io/badge/Django%20REST%20Framework-3.15-red.svg)](https://www.django-rest-framework.org/)
-[![Poetry](https://img.shields.io/badge/Poetry-Latest-blueviolet.svg?logo=poetry)](https://python-poetry.org/)
-
+![Python](https://img.shields.io/badge/Python-3.13-8EC5F0?style=flat-square&logo=python&logoColor=1a1a1a)
+![Django](https://img.shields.io/badge/Django-5.0+-9DD89A?style=flat-square&logo=django&logoColor=1a1a1a)
+![DRF](https://img.shields.io/badge/DRF-3.15-F0A8B8?style=flat-square&logo=django&logoColor=1a1a1a)
+![Poetry](https://img.shields.io/badge/Poetry-Latest-C7B8E8?style=flat-square&logo=poetry&logoColor=1a1a1a)
 ---
 
 ## Orientador
 
-[![LinkedIn Claudio Ulisse](https://img.shields.io/badge/LinkedIn-Claudio_Ulisse-%230077B5.svg?labelColor=%23FFFFFF\&logo=linkedin)](https://www.linkedin.com/in/claudioulisse/)
-[![GitHub claulis](https://img.shields.io/badge/GitHub-claulis_\(Claudio_Ulisse\)-%23181717.svg?logo=github\&logoColor=white)](https://github.com/claulis)
-[![Lattes Claudio Ulisse](https://img.shields.io/badge/Lattes-Claudio_Ulisse-green.svg?logo=cnpq\&logoColor=white)](http://lattes.cnpq.br/4607303092740768)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Claudio%20Ulisse-8EC5F0?style=flat-square&logo=linkedin&logoColor=000000)](https://linkedin.com/in/claudio-ulisse)
+[![GitHub](https://img.shields.io/badge/GitHub-claulis-C7B8E8?style=flat-square&logo=github&logoColor=000000)](https://github.com/claulis)
+[![Lattes](https://img.shields.io/badge/Lattes-Claudio%20Ulisse-9DD89A?style=flat-square&logoColor=000000)](http://lattes.cnpq.br/)
 ---
 
 ## Sumário
