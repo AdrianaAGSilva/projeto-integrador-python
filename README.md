@@ -39,7 +39,7 @@ Definidas em `pyproject.toml`:
 
 ## Pré-requisitos
 
-* * Python **3.13** ou superior
+* Python **3.13** ou superior
 * Git
 * **Poetry** (gerenciador de dependências)
 
