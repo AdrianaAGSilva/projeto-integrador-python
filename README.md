@@ -39,7 +39,7 @@ Definidas em `pyproject.toml`:
 
 ## Pré-requisitos
 
-* Python **3.12** ou superior
+* * Python **3.13** ou superior
 * Git
 * **Poetry** (gerenciador de dependências)
 
@@ -84,7 +84,21 @@ O Poetry cria automaticamente o ambiente virtual e instala todas as dependência
 ```bash
 poetry install
 ```
+---
 
+### Configuração de variáveis de ambiente
+
+Copie o arquivo de exemplo e gere sua própria SECRET_KEY:
+
+```bash
+cp .env.example .env
+```
+
+Gere uma nova chave e cole no arquivo `.env`:
+
+```bash
+poetry run python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
+```
 ---
 
 ### Ativar o ambiente virtual (opcional)
@@ -274,7 +288,7 @@ python --version
 Definir versão específica:
 
 ```bash
-poetry env use python3.12
+poetry env use python3.13
 ```
 
 ### Limpar cache do Poetry
