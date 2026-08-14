@@ -9,3 +9,5 @@ env/
 # Banco de dados (opcional: geralmente não se sobe o banco, mas para trabalho escolar pode ser útil)
 # Se quiser não subir o banco, descomente a linha abaixo:
 # db.sqlite3
+# Vari�veis de ambiente
+.env
